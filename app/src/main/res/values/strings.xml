@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Hero Battle</string>
-</resources>
+    <string name="nick_fury_image">Nick Fury image</string>
+    <string name="continuar">continue</string>
+    <string name="finally_here">You are finally here commander.</string>
+    <string name="we_need_you">We need you to assemble a special \n team to retrieve a dangerous \n artifact that got lost in time.</string>
+    <string name="we_trust_you">We trust you to win allies and \n improve your team as you make \n progress towards retrieving \n the artifact.</string>
+   </resources>
